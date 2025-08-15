@@ -48,7 +48,9 @@ Once the debugger starts, you enter an interactive REPL (read-eval-print loop) w
 - `list [N]`            : show source around current line  
 - `where`               : show current location  
 - `help`                : display help  
-- `q`                   : quit debugger  
+- `q`                   : quit debugger
+
+You can also just press RETURN (enter key) and it will step over 
 
 ## Features
 - Breakpoints with robust path handling  
